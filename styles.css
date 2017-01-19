@@ -1,0 +1,39 @@
+body {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  font: 14px/21px Helvetica;
+  background-color: #96858f;
+}
+main {
+  background-color: #d5d5d5;
+}
+main h2 {
+	padding: 10px;
+  margin-top: 0;
+}
+header, footer {
+  padding: 1em;
+  background-color: #6D7993;
+}
+img {
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+  max-width: 700px;
+  height: auto;
+  padding: 10px;
+}
+footer {
+	text-align: center;
+  font-size: 10px;
+}
+#title {
+  font-size: 28px;
+  padding: 0.75em 0;
+  margin-top: 0;
+}
+.imagetext {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  padding: 1em;
+}
